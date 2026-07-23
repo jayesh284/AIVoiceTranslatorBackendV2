@@ -1,7 +1,0 @@
-services:
-  - type: web
-      name: aivoice-translator-backend-v2
-          env: node
-              plan: free
-                  buildCommand: npm install
-                      startCommand: npm start
